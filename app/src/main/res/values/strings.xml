@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="app_homepage_title">All Notes</string>
+    <string name="app_todo_title">Note Title</string>
+    <string name="app_todo_body">This the body of the note.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_submit">Submit</string>
+    <string name="new_note_title_hint">Note Title</string>
+    <string name="new_note_body_hint">Note Body</string>
+    <string name="new_note_page_title">Add New Note</string>
+    <string name="type_text">text</string>
+    <string name="new_note_added_successfully">Note Was Added Successfully</string>
+    <string name="new_note_error">Note Title or Body Cannot Be Empty</string>
+</resources>
